@@ -8,3 +8,5 @@
 
 ## Как запустить
 python "Legendary team Baikena.py"
+## Запуск тестов
+python test_deals.py
